@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Vishali H K",
+      "dateOfBirth": "12,jul,2014",
+      "age": "9",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "anil naier",
+      "dateOfBirth": "13,jan,2019",
+      "age": "16",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "sangeetha ",
+      "dateOfBirth": "25,april",
+      "age": "22",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "name": "geetha",
+      "dateOfBirth": "12,feb,2019",
+      "age": "12",
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "name": "rama",
+      "dateOfBirth": "11,aug,2000",
+      "age": "7",
+      "gender": "others",
+      "id": 6
+    },
+    {
+      "name": "vikas h k",
+      "dateOfBirth": "17,may,2000",
+      "age": "23",
+      "gender": "male",
+      "id": 7
+    }
+  ]
+}
